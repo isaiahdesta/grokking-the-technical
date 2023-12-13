@@ -1,1 +1,1 @@
-# grokking-the-technical
+Out of complexity, emergent properties are discovered. It is one of those things in this world that is so close to magic that it compels a man to assume a God. How else could something this odd and spectacular exist if not for an omniscient force? All I can hope to do is steal fire from the gods and bring my ability to bear on the problems of my time. Welcome to grokking the technical."
