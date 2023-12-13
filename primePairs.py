@@ -14,3 +14,4 @@ class Solution:
             if sieve[x] and sieve[n - x]:
                 pairs.append([x, n - x])
         return pairs
+    
